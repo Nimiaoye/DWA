@@ -8,7 +8,13 @@ The python file of prm is a given example. In fact, we use our own RRT*, not prm
 Therefore, the source code named task1 also contains DWA, but it is only used to move forward along the route, implement simple and hard of task1, and also implement simple of task2.
 The source code named task2 is only used to implement hard dynamic obstacle avoidance of task2.
 
+<<<<<<< HEAD
 the log file is stored, and the result vedios is stored in file "log/perform_vedio".
 
 2024.4.5 
 
+=======
+the log file is stored, and the result vedios is uploaded.
+
+2024.4.5 
+>>>>>>> 246d020e869c1ef7fea8e2441fcb1bf16a551513
