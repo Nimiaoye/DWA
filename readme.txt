@@ -1,0 +1,5 @@
+这是我们的实验报告，动态避障没有用RRT*，因此没有引入RRT*库
+还有prm的python文件是给出的例程，实际上用的是我们自己的RRT*，并没有用prm
+因此我们名字是task1的源代码也包含DWA但是仅用于按照路线前进，实现task1的simple和hard，还用于实现task2的simple
+名字是task2的源代码只用于实现task2的hard动态避障
+
